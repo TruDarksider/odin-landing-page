@@ -51,7 +51,7 @@ button {
 
 .intro-title {
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: bolder;
     color: #F9FAF8;
 }
 
@@ -88,7 +88,7 @@ button {
 
 .info-title {
     font-size: 36px;
-    font-weight: extra-bold;
+    font-weight: bolder;
     color: #1F2937;
 }
 
